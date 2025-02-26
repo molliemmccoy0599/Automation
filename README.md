@@ -22,3 +22,7 @@ The users in this instance were me, myself, and I, this time was very much a cha
 
 ## Learnings 
 I honestly just feel more confused than prior, if I was able to was the demo mutiple times and really soak it in, I feel as though it would be different but I just don't think I was able to retain that much information regarding the process and all the things I was able to find online in regards to tutorials had lots of varying information. At the end of the day this was a failure all of my codes seemingly did't have functions which I did not know how to add, I would like to meet after class or before at some point to understand this more. I was honestly pretty conifident that it wouldnt be that hard needless to say, I was very wrong. I atleast was able to make the simple table function work. 
+
+## Update 
+After finishing this project though it wasn't a success, I did receive almost daily updates that it was a failure pictured belore haha. 
+<img width="379" alt="Screen Shot 2025-02-25 at 5 27 26 PM" src="https://github.com/user-attachments/assets/240a3239-cdf4-40d4-9401-efa80e5dc679" />
